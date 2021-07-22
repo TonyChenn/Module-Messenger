@@ -1,0 +1,15 @@
+{
+  "name": "com.dt.messengers",
+  "displayName": "N-Messengers",
+  "version": "0.0.1",
+  "keywords": [
+    "messenger",
+    "Messenger"
+  ],
+  "description": "\u6d88\u606f\u673a\u5236\uff0c\u7528\u4e8e\u89e3\u8026\u5408",
+  "author": {
+    "name": "TonyChenn",
+    "email": "852454151@qq.com",
+    "url": "https://tonychenn.cn"
+  }
+}
