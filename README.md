@@ -20,7 +20,7 @@ Messenger.RemoveListener(MessangerEventDef.Demo_EventType, OnCall);
 void OnCall()
 {
 	Debug.Log("===OnCall==");
-	//TODO 刷新好友相关代码
+	//TODO
 }
 ```
 # 注意事项
